@@ -6,7 +6,7 @@ Este é um projeto de e-commerce simples e funcional, desenvolvido em **PHP puro
 
 ---
 
-## 📋 Índice
+## Índice
 
 *   [Funcionalidades](#-funcionalidades)
 *   [Tecnologias Utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
