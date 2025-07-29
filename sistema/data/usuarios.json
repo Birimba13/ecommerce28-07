@@ -1,0 +1,26 @@
+{
+    "1": {
+        "username": "duda",
+        "mail": "duda@hotmail.com",
+        "password": "$2y$10$X3R5j7VlyRbc7kQwWCpWE.Lq5mgnRrDL7zHeTTen5nMm0OOlwEzb2",
+        "permissao": "Administrador"
+    },
+    "3": {
+        "username": "jj13679",
+        "mail": "jpjerosch@gmail.com",
+        "password": "$2y$10$jzplOQ5qPmxX0otsLwKeieKqkOJdflvtTXI1ybofQ8oe4.G4aWGiO",
+        "permissao": "Administrador"
+    },
+    "4": {
+        "username": "joao",
+        "mail": "joao@gmail.com",
+        "password": "$2y$10$PblsWhhZWrZNFt7vO3x8deOtYzcaDFh4DTPSgCNY6cxEM7nzbFcdW",
+        "permissao": "Usu\u00e1rio"
+    },
+    "5": {
+        "username": "a",
+        "mail": "a@gmail.com",
+        "password": "$2y$10$ysDIP4G60r.q1CQUFJBnHe\/TYka1FwkDuWvGbofgQw6RcjU077Gn6",
+        "permissao": "Usu\u00e1rio"
+    }
+}
